@@ -34,7 +34,6 @@
 
 #### Containers & Orchestration  
 <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
-<img src="https://img.shields.io/badge/OpenShift-E00.svg?logo=RedHat&logoColor=white"/>
 </div>
 </td>
 
@@ -42,7 +41,6 @@
 <div align="center">  
 
 #### CI/CD & GitOps  
-<img src="https://skillicons.dev/icons?i=jenkins" />
 <img src="https://img.shields.io/badge/ArgoCD-FF4F8B.svg?logo=argo&logoColor=white" />
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubActions-Dark.svg" width="40" height="40" alt="GitHub Actions" />
 </div>
@@ -66,7 +64,6 @@
 
 #### Operating Systems  
 <img src="https://skillicons.dev/icons?i=ubuntu" />
-<img src="https://img.shields.io/badge/RedHat-E00.svg?logo=RedHat&logoColor=white" />
 </div>
 </td>
 

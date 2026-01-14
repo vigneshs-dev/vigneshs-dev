@@ -74,7 +74,7 @@
 ## 📄 My Resume
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1MQRZNTfnu9f9dcr7pyLsfgoP1EdrECR0/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1AtDaEUzBY235F8oLqyZvgL8n3BJM9QiB/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Download_CV_PDF-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
   </a>
 </p>
@@ -93,7 +93,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-<a href="https://x.com/devops_nk">
+<a href="https://x.com/vigneshs_dev">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="https://github.com/vigneshs-dev/">

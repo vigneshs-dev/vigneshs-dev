@@ -2,7 +2,7 @@
 <h3 align="center">DevOps & Cloud Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=DevOps+Cloud+Engineer;Terraform+%7C+AWS+%7C+%7C+Kubernetes+%7C+ArgoCD;Linux+Automation+%7C+Ansible+%7C+GitHub" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=DevOps+Cloud+Engineer;Terraform+%7C+AWS+%7C+Kubernetes+%7C+ArgoCD;Linux+Automation+%7C+Ansible+%7C+GitHub" alt="Typing SVG" />
 </p>
 
 ---
